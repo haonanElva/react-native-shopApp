@@ -1,0 +1,97 @@
+{
+  "count": 4,
+  "data": [
+    {
+      "detailurl": "imeituan://www.meituan.com/web/?url=http://i.meituan.com/shoppingmall/smDetail/4374715",
+      "promotionIcon": "",
+      "name": "依诺♔大长腿",
+      "img": "https://vi3.6rooms.com/live/2017/02/11/23/1010v1486825491140350116_s.jpg",
+      "showtext": {
+        "text": "离我最近",
+        "count": 84,
+        "color": ""
+      },
+      "longitude": 113.327086,
+      "latitude": 23.131909,
+      "smid": 4374715,
+      "promotionText": "送福利 商品低至1.5折"
+    },
+    {
+      "detailurl": "imeituan://www.meituan.com/web/?url=http://i.meituan.com/shoppingmall/smDetail/50606658",
+      "promotionIcon": "",
+      "name": "依诺♔小蛮腰",
+      "img": "https://vi3.6rooms.com/live/2017/07/20/12/1010v1500526250183630933_s.jpg",
+      "showtext": {
+        "text": "熊孩纸♫允熙",
+        "count": 55,
+        "color": ""
+      },
+      "longitude": 113.26605,
+      "latitude": 23.17151,
+      "smid": 50606658,
+      "promotionText": "春来花开 满100最高减60"
+    },
+    {
+      "detailurl": "imeituan://www.meituan.com/web/?url=http://i.meituan.com/shoppingmall/smDetail/75813274",
+      "promotionIcon": "",
+      "name": "大蓒晚上见",
+      "img": "https://vi0.6rooms.com/live/2017/03/26/23/1010v1490542518707536335_s.jpg",
+      "showtext": {
+        "text": "漂亮dancer",
+        "count": 61,
+        "color": ""
+      },
+      "longitude": 113.269668,
+      "latitude": 23.1818,
+      "smid": 75813274,
+      "promotionText": "新春送福利 购物满额有好礼"
+    },
+    {
+      "detailurl": "imeituan://www.meituan.com/web/?url=http://i.meituan.com/shoppingmall/smDetail/41692498",
+      "promotionIcon": "",
+      "name": "︶❀一妃❥゛",
+      "img": "https://vi2.6rooms.com/live/2017/01/06/12/1010v1483677964388466598_s.jpg",
+      "showtext": {
+        "text": "最高的",
+        "count": 48,
+        "color": ""
+      },
+      "longitude": 113.232008,
+      "latitude": 23.397758,
+      "smid": 41692498,
+      "promotionText": "48家品牌优惠中：瑞可爷爷的店每满30减5，全单9折（买单立享）"
+    },
+    {
+      "detailurl": "imeituan://www.meituan.com/web/?url=http://i.meituan.com/shoppingmall/smDetail/41692498",
+      "promotionIcon": "",
+      "name": "╰♥艺馨ミ小主",
+      "img": "https://vi3.6rooms.com/live/2017/08/04/14/1010v1501828847163841363_b.jpg",
+      "showtext": {
+        "text": "最萌妹子",
+        "count": 48,
+        "color": ""
+      },
+      "longitude": 113.232008,
+      "latitude": 23.397758,
+      "smid": 41692498,
+      "promotionText": "48家品牌优惠中：瑞可爷爷的店每满30减5，全单9折（买单立享）"
+    },
+    {
+      "detailurl": "imeituan://www.meituan.com/web/?url=http://i.meituan.com/shoppingmall/smDetail/41692498",
+      "promotionIcon": "",
+      "name": "╰♥艺馨ミ",
+      "img": "https://vi2.6rooms.com/live/2017/09/17/14/1010v1505630852097884498_s.jpg",
+      "showtext": {
+        "text": "最漂亮妹子",
+        "count": 48,
+        "color": ""
+      },
+      "longitude": 113.232008,
+      "latitude": 23.397758,
+      "smid": 41692498,
+      "promotionText": "48家品牌优惠中：瑞可爷爷的店每满30减5，全单9折（买单立享）"
+    }
+  ],
+  "tips": "全部5家",
+  "jumpto": "imeituan://www.meituan.com/web/?url=http://i.meituan.com/shoppingmall/smList?sid=@geodist:asc"
+}

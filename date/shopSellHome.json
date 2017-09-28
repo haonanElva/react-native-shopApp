@@ -1,0 +1,34 @@
+{
+    "stid": "720698155324449024",
+    "data": [{
+        "pic": "http://mobile.bkrtrip.com/view/other/style/zt2.0/img/17.png",
+        "id": "s1",
+        "title": "妹子专卖店",
+        "subTitle": "最美人间天堂"
+    }, {
+        "pic": "http://mobile.bkrtrip.com/view/other/style/zt2.0/img/18.png",
+        "id": "s2",
+        "title": "游轮专卖店",
+        "subTitle": "环球世界不是梦"
+    }, {
+        "pic": "http://mobile.bkrtrip.com/view/other/style/zt2.0/img/19.png",
+        "id": "s3",
+        "title": "东南亚专卖店",
+        "subTitle": "畅游东南亚"
+    }, {
+        "pic": "http://mobile.bkrtrip.com/view/other/style/zt2.0/img/20.png",
+        "id": "s4",
+        "title": "美团专卖店",
+        "subTitle": "梦幻美国之旅"
+    }, {
+        "pic": "http://mobile.bkrtrip.com/view/other/style/zt2.0/img/22.png",
+        "id": "s5",
+        "title": "韩国专卖店",
+        "subTitle": "浪漫之旅"
+    }, {
+        "pic": "http://mobile.bkrtrip.com/view/other/style/zt2.0/img/21.png",
+        "id": "s6",
+        "title": "日本专卖店",
+        "subTitle": "领略东瀛之美"
+    }]
+}
